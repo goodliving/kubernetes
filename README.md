@@ -4,10 +4,10 @@
 
 ### 翻译列表
 
-- [ ] Home
-- [ ] SETUP
-- [ ] CONCEPTS
-- [ ] TASKS
-- [ ] TUTIRIALS
-- [ ] REFERENCE
+- [ ] [HOME](https://github.com/goodliving/kubernetes/tree/master/HOME)
+- [ ] [SETUP](https://github.com/goodliving/kubernetes/tree/master/SETUP)
+- [ ] [CONCEPTS](https://github.com/goodliving/kubernetes/tree/master/CONCEPTS)
+- [ ] [TASKS](https://github.com/goodliving/kubernetes/tree/master/TASKS)
+- [ ] [TUTIRIALS](https://github.com/goodliving/kubernetes/tree/master/TUTIRIALS)
+- [ ] [REFERENCE](https://github.com/goodliving/kubernetes/tree/master/REFERENCE)
 
